@@ -87,7 +87,7 @@ tx_rx_project/
   - Handshake flow control
   - Completion signaling (`tx_finish`, `rx_finish`)
 
-### Simulation Waveforms
+## Simulation Waveforms
 Representative waveforms are provided in `docs/waveforms.png`,
 showing TX serialization, RX deserialization, memory writes,
 and completion signaling. 
