@@ -86,6 +86,7 @@ tx_rx_project/
   - ROM reads and RAM writes
   - Handshake flow control
   - Completion signaling (`tx_finish`, `rx_finish`)
+---
 
 ## Simulation Waveforms
 Representative waveforms are provided in `docs/waveforms.png`,
