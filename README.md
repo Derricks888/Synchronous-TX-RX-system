@@ -97,7 +97,7 @@ It focuses on the **core TX/RX architecture**, making it an ideal foundation for
 ---
 
 ## Tools Used
-- **Vivado ML Editions
+- Vivado ML Editions
 - **Language:** SystemVerilog
 - **Simulator:** Vivado Simulator (xsim)
 - **Version Control:** Git / GitHub
