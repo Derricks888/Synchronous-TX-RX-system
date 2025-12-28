@@ -51,3 +51,8 @@ tx_rx_project/
 │   └── waveforms.png # Simulation waveform screenshots
 └── README.md
 
+---
+
+## Author
+**Derrick Smith**  
+Embedded Systems & Digital Design
