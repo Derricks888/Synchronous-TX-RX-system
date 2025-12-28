@@ -135,6 +135,13 @@ It focuses on the **core TX/RX architecture**, making it an ideal foundation for
 
 ## Author
 **Derrick Smith**  
+Lexmark (a Xerox Subsidiary) – Electrical Engineer  
 Embedded Systems Development & Digital Design  
 FPGA • RTL • SystemVerilog • Verification
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineer-Digital_Hardware-blue?style=for-the-badge&logo=circuitverse">
+  <img src="https://img.shields.io/badge/FPGA-Design-green?style=for-the-badge&logo=intel">
+  <img src="https://img.shields.io/badge/Embedded_Systems-Linux-orange?style=for-the-badge&logo=linux">
+</p>
 
