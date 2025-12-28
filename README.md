@@ -52,6 +52,57 @@ tx_rx_project/
 └── README.md
 
 ```
+---
+
+## Simulation
+- Simulated using **Vivado Simulator (xsim)**
+- Verified correct operation for:
+  - FSM sequencing
+  - Bit-level shifting
+  - ROM reads and RAM writes
+  - Handshake flow control
+  - Completion signaling (`tx_finish`, `rx_finish`)
+
+Waveforms confirm correct serialization, deserialization, and memory storage.
+
+---
+
+## Key Learning Outcomes
+- FSM and datapath separation
+- Shift-register-based serial communication
+- Memory modeling in RTL
+- Handshake-based control signaling
+- Cycle-accurate simulation and debugging
+- Hierarchical RTL design practices
+
+---
+
+## Relation to USART
+This project is **conceptually similar to a USART**, but operates synchronously:
+- No baud-rate generator
+- No start/stop bits
+- No parity logic
+
+It focuses on the **core TX/RX architecture**, making it an ideal foundation for extending toward a full UART/USART implementation.
+
+---
+
+## Future Improvements
+- Baud-rate generator
+- Start/stop bit framing
+- Parity checking
+- Error detection and recovery
+- Asynchronous clock domain support
+
+---
+
+## Tools Used
+- **Vivado ML Editions
+- **Language:** SystemVerilog
+- **Simulator:** Vivado Simulator (xsim)
+- **Version Control:** Git / GitHub
+
+---
 
 ---
 
